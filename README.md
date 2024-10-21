@@ -1,5 +1,5 @@
-## Hi there 👋
-![MasterHead]([C:\Users\guill\OneDrive\Imágenes\GitHub Profile\banner.png](https://github.com/GuilleVe09/GuilleVe09/blob/main/Enjoy%20the%20process!!.png))
+![Banner]([C:\Users\guill\OneDrive\Imágenes\GitHub Profile\banner.png](https://github.com/GuilleVe09/GuilleVe09/blob/main/Enjoy%20the%20process!!.png))
+
 
 <!--
 **GuilleVe09/GuilleVe09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
