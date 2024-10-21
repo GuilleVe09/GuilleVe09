@@ -1,4 +1,4 @@
-## ![Banner]([C:\Users\guill\OneDrive\Imágenes\GitHub Profile\banner.png](https://github.com/GuilleVe09/GuilleVe09/blob/main/Enjoy%20the%20process!!.png))
+![Masterhead](https://github.com/GuilleVe09/GuilleVe09/blob/main/Enjoy%20the%20process!!.png)
 
 
 <!--
