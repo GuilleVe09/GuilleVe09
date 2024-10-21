@@ -1,8 +1,11 @@
 ![Masterhead](https://github.com/GuilleVe09/GuilleVe09/blob/main/Enjoy%20the%20process!!.png)
 
 ## Hi there, I'm Guillermo Veintimilla :smiley:
-### I'm a Computer Science Engineer with a passion about technology, football, anime and Music. 
-### Currently I'm learning about mobile development using the Flutter Framework.
+I'm a Computer Science Engineer with a passion about technology :computer:, football :soccer:, videogames :video_game: and anime :art:.
+
+- Currently I'm learning about mobile development using the Flutter Framework :iphone:.
+- My Resume :page_with_curl:.
+
 <!--
 **GuilleVe09/GuilleVe09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
